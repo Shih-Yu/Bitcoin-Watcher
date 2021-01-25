@@ -1,0 +1,31 @@
+body {
+  background: darkgreen;
+  color: antiquewhite;
+  text-align: center;
+}
+
+#btn {
+  display: block;
+  background: burlywood;
+  font-size: 20px;
+  color: blanchedalmond;
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px bisque solid;
+  border-radius: 5px;
+}
+
+#price {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+
+a {
+  color: goldenrod;
+}
+
+a:hover {
+  color: firebrick;
+}
+
+
